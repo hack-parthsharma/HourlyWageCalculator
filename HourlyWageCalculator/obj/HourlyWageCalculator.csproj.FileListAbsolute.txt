@@ -1,0 +1,13 @@
+F:\Documents\Development\Projects\HourlyWageCalculator\HourlyWageCalculator\bin\Debug\HourlyWageCalculator.exe.config
+F:\Documents\Development\Projects\HourlyWageCalculator\HourlyWageCalculator\obj\Debug\HourlyWageCalculator.csprojResolveAssemblyReference.cache
+F:\Documents\Development\Projects\HourlyWageCalculator\HourlyWageCalculator\obj\Debug\MainWindow.baml
+F:\Documents\Development\Projects\HourlyWageCalculator\HourlyWageCalculator\obj\Debug\MainWindow.g.cs
+F:\Documents\Development\Projects\HourlyWageCalculator\HourlyWageCalculator\obj\Debug\App.g.cs
+F:\Documents\Development\Projects\HourlyWageCalculator\HourlyWageCalculator\obj\Debug\HourlyWageCalculator_MarkupCompile.cache
+F:\Documents\Development\Projects\HourlyWageCalculator\HourlyWageCalculator\obj\Debug\HourlyWageCalculator.g.resources
+F:\Documents\Development\Projects\HourlyWageCalculator\HourlyWageCalculator\obj\Debug\HourlyWageCalculator.Properties.Resources.resources
+F:\Documents\Development\Projects\HourlyWageCalculator\HourlyWageCalculator\obj\Debug\HourlyWageCalculator.csproj.GenerateResource.Cache
+F:\Documents\Development\Projects\HourlyWageCalculator\HourlyWageCalculator\bin\Debug\HourlyWageCalculator.exe
+F:\Documents\Development\Projects\HourlyWageCalculator\HourlyWageCalculator\bin\Debug\HourlyWageCalculator.pdb
+F:\Documents\Development\Projects\HourlyWageCalculator\HourlyWageCalculator\obj\Debug\HourlyWageCalculator.exe
+F:\Documents\Development\Projects\HourlyWageCalculator\HourlyWageCalculator\obj\Debug\HourlyWageCalculator.pdb
